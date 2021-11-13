@@ -1,4 +1,4 @@
-eksexample_region: eu-central-1
+eksexample_region: us-east-1
 eksexample_worker_desiredcount: 2
 eksexample_worker_maxcount: 10
 eksexample_worker_mincount: 2
